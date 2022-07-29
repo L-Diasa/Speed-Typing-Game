@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Speed-Typing-Game/static/css/main.6a137041.css",
+    "main.js": "/Speed-Typing-Game/static/js/main.800b4052.js",
+    "index.html": "/Speed-Typing-Game/index.html",
+    "main.6a137041.css.map": "/Speed-Typing-Game/static/css/main.6a137041.css.map",
+    "main.800b4052.js.map": "/Speed-Typing-Game/static/js/main.800b4052.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a137041.css",
+    "static/js/main.800b4052.js"
+  ]
+}
